@@ -1,4 +1,4 @@
-- @adabendel
+# @adabendel at Dunraven
 - python
 - maths
 - minimal webdev
